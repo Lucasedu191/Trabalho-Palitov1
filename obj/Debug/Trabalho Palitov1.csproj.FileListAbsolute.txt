@@ -1,0 +1,30 @@
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.exe.config
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.exe
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.pdb
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csprojResolveAssemblyReference.cache
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho_Palitov1.FormPalito.resources
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho_Palitov1.Properties.Resources.resources
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csproj.GenerateResource.Cache
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csproj.CoreCompileInputs.cache
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.exe
+C:\Users\2016100002\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.pdb
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho_Palitov1.FormPalito.resources
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho_Palitov1.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.exe
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.pdb
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.exe.config
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.exe
+C:\Users\Lucas\source\repos\Trabalho Palitov1\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.pdb
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.exe.config
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.exe
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\bin\Debug\Trabalho Palitov1.pdb
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csprojResolveAssemblyReference.cache
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho_Palitov1.FormPalito.resources
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho_Palitov1.Properties.Resources.resources
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csproj.GenerateResource.cache
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.csproj.CoreCompileInputs.cache
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.exe
+C:\Users\adm\OneDrive - Complexo de Ensino Superior do Brasil LTDA\primeiro periodo\trabalho palitov1\Trabalho Palitov2\Trabalho Palitov1\obj\Debug\Trabalho Palitov1.pdb
