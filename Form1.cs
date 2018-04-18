@@ -41,9 +41,9 @@ namespace Trabalho_Palitov1
             RichTextBoxpalito.AppendText(Environment.NewLine);
 			RichTextBoxpalito.AppendText("sua vez... ");
 			RichTextBoxpalito.AppendText(Environment.NewLine);
-			RichTextBoxpalito.AppendText("Restam " + (17) + " palitos");
-            RichTextBoxpalito.AppendText("Restam " + (17) + " palitos");
-            RichTextBoxpalito.AppendText("Restam " + (17) + " palitos");
+			RichTextBoxpalito.AppendText("Restam " + (3) + " palitos");
+
+
 
 
 
