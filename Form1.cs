@@ -94,7 +94,7 @@ namespace Trabalho_Palitov1
                     else
                         Application.Exit(); // sai do jogo 
                 }
-                if (inicio == 1) //  caso quando o computador perde
+                if (inicio == 1) //  caso quando o computador perde 
                 {
                     MessageBox.Show("Eu Perdi!", "Impossível!!");
                     DialogResult SIM_NAO = MessageBox.Show("deseja jogar denovo", "Desafio", MessageBoxButtons.YesNo);
